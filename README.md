@@ -147,8 +147,3 @@ I built Core **AI-assisted**: most code was written by pairing with Claude Code,
 - Making LLM features safe to put in front of non-technical staff
 - Running a production SaaS as a solo engineer: deploy gating, observability, incident runbooks
 - Moving from single-tenant to multi-tenant without a rewrite
-
----
-
-<!-- TODO: contact line -->
-**Contact:** [your email] · [LinkedIn]
